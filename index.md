@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,13 +17,12 @@
 
 ---
 
-### Category Name 2
+### Psychology Research Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Master's Thesis: Memory for a Familiar and an Unfamiliar University Logos](EPA 2021 - Memory for a Familiar and an Unfamiliar University Logos.pdf)
+- [Undergraduate Thesis: Relationship Between Mindfulness and Sleep Quality on College Students' Concentration on an Attention Task](Fels MindfulnessSpring2019Poster.pdf)
+- [Association for Psychological Science 2019 Convention: Knowledge and Pattern of Health-Inhibiting and Health-Promoting Behavior - The Positive Influence of a Fear/Education Appeal on Willingness to Engage in Behavioral Change](APS 2019 Poster.pdf)
+- [Eastern Psychological Association 2019 Conference: Health Behaviors of Undergraduate College Students](EPA 2019 Poster.pdf)
 
 ---
 
