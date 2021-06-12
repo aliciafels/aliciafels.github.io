@@ -64,4 +64,37 @@ An a prior power analysis was conducting using GPower to see how many participan
 
 ![Recall Scores Graph](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/recall_bargraph.png)
 
+### Confidence Judgements
+
+![Confidence Scores Graph](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/confidence_bargraph.png)
+
+### Relationship Between Recall and Confidence
+
+*Pirate Scatterplots*
+
+![Pirate scatterplots](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/pirateconf_scatter.png)
+
+*Bearcat Scatterplots*
+
+![Bearcat Scatterplots](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/bearcatconf_scatter.png)
+
+*Pirate and Bearcat*
+
+![Pirate and Bearcat Scatterplots](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/piratebear_scatter.png)
+
+### Exploratory Analyses
+
+*Owning a Pirate Logoed Item*
+
+![Pirate Item](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/ownpirate_bargraph.png)
+
+*Owning a Pirate Logoed Car Sticker*
+
+![Pirate Car](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/piratecar_bargraph.png)
+
+*Living Situation: On-campus vs. Commuter*
+
+![Living Situation](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/living_bargraph.png)
+
+
 [^1]: Mean(Standard Deviation)
