@@ -57,3 +57,5 @@ An a prior power analysis was conducting using GPower to see how many participan
     - Both conditions were also counterbalanced to negate order effect (draw the unstudied logo, study one logo, and then draw the studied logo).
 - After both logos were drawn, participants were asked to rate their confidence for both logos one last time.
 - Lastly, participants were debriefed and thanked for their time and participation.
+
+[^1]: Mean(Standard Deviation)
