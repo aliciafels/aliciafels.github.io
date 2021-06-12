@@ -50,7 +50,7 @@
 
 ---
 
-### Psychology Research Projects
+### Psychology Research Posters
 
 ---
 
