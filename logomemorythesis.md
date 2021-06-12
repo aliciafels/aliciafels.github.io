@@ -58,4 +58,10 @@ An a prior power analysis was conducting using GPower to see how many participan
 - After both logos were drawn, participants were asked to rate their confidence for both logos one last time.
 - Lastly, participants were debriefed and thanked for their time and participation.
 
+## 4. Results
+
+### Recall Scores
+
+![Recall Scores Graph](https://github.com/aliciafels/aliciafels.github.io/blob/main/MSThesisImages/recall_bargraph.png)
+
 [^1]: Mean(Standard Deviation)
