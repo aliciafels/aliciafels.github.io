@@ -41,7 +41,7 @@
 
 #### Machine Learning
 
-[Project 1 Title](/sample_page)
+[Chronic Kidney Disease Chat Bot](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
