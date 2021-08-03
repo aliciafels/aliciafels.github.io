@@ -2,54 +2,6 @@
 
 ---
 
-### Data Science
-
----
-
-#### Data Cleaning
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-#### Exploratory Data Analysis
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-#### Interactive Data Visualizations
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-#### Machine Learning
-
-[Chronic Kidney Disease Chat Bot](/kidneychatbot.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Psychology Research Posters
 
 ---
@@ -67,6 +19,23 @@
 - [Eastern Psychological Association 2019 Conference: Health Behaviors of Undergraduate College Students](EPA 2019 Poster.pdf)
 
 ---
+
+### Data Science
+
+---
+
+#### Machine Learning
+
+[Chronic Kidney Disease Chat Bot](/kidneychatbot.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+
 
 
 
