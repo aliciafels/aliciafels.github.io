@@ -27,7 +27,6 @@
 #### Machine Learning
 
 [Chronic Kidney Disease Chat Bot](/kidneychatbot.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
