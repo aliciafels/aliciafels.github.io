@@ -3,12 +3,16 @@ logo: "/Images/portfolio_image.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   BA in Psychology, 2019
   MS in Experimental Psychology, 2021
+  MS in Data Analytics, 2023
   <br><br>
   Budding data scientist and analyst 
   <br><br>
-  <a href="https://aliciafels.github.io/resume/">View My Resume</a> 
+  <a href="https://aliciafels.github.io/FelsResume9.21.pdf" target="_blank">View My Resume</a> <embed src="https://aliciafels.github.io/FelsResume9.21.pdf" width="1000px" height="800px" />
   <br><br>
   <a href="https://www.linkedin.com/in/alicia-fels-1a86a1192/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://github.com/aliciafels">View My GitHub Profile</a>
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
